@@ -1,0 +1,23 @@
+{
+  "name": "shine",
+  "homepage": "https://github.com/timgillies/shine",
+  "authors": [
+    "Tim Gillies <timothy.gillies@colorado.edu>"
+  ],
+  "description": "shine",
+  "main": "shine",
+  "keywords": [
+    "shine"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.7"
+  }
+}
